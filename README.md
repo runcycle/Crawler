@@ -1,5 +1,5 @@
 # Crawler
-Sorting Through Data
+Sorting Through Links Within JSON Internet
 
 - I started out by creating a url validation if/else statement.  It wasn't required by the rules of the challenge, but I was envisioning this crawler as part of an actual web page, where I would need to filter out text, images, etc to grab only urls.
 
