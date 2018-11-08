@@ -48,9 +48,9 @@ function checkUrls(data) {
             });
           }
 
-          console.log('Success:' + success);
-          console.log('Skipped:' + skipped);
-          console.log('Error:' + errors);
+          console.log('Success:', success);
+          console.log('Skipped:', skipped);
+          console.log('Error:', errors);
 
           //clears values of arrays for net2 data
           success = [];
